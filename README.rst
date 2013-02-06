@@ -1,6 +1,7 @@
 The Choose Your Own Adventure README for Cinder
 ===============================================
 
+
 You have come across a storage service for an open cloud computing service.
 It has identified itself as "Cinder."   It was abstracted from the Nova project.
 
